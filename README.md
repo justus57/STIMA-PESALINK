@@ -22,3 +22,5 @@ Reports
 Anti-Fraud checks
 The IPS is designed to provide secure payment and information exchange via secure network.
 Access to IPS services is provided for eligible Participants through Unified REST API
+
+![name-of-you-image](https://your-copied-image-address)
