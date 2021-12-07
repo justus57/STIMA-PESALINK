@@ -23,4 +23,8 @@ Anti-Fraud checks
 The IPS is designed to provide secure payment and information exchange via secure network.
 Access to IPS services is provided for eligible Participants through Unified REST API
 
-![name-of-you-image](https://your-copied-image-address)
+Dummy xml of what is required
+![sample xml](https://github.com/justus57/STIMA-PESALINK/blob/master/images/sample%20xml.png?raw=true)
+
+this is inteface
+![api](https://github.com/justus57/STIMA-PESALINK/blob/master/images/api.png?raw=true)
